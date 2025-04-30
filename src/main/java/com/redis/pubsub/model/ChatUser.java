@@ -1,4 +1,4 @@
-package com.messaging.chat.model;
+package com.redis.pubsub.model;
 
 public class ChatUser implements User{
     int id;

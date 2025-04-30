@@ -1,4 +1,4 @@
-package com.messaging.chat.controller;
+package com.redis.pubsub.controller;
 
 import java.util.Set;
 
@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.messaging.chat.model.Message;
+import com.redis.pubsub.model.Message;
 
 @RestController
 public class ChatController {

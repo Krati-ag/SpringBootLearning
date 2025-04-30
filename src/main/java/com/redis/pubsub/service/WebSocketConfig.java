@@ -1,4 +1,4 @@
-package com.messaging.chat.service;
+package com.redis.pubsub.service;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.messaging.converter.MappingJackson2MessageConverter;
